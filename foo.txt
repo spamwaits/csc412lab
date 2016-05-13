@@ -1,2 +1,2 @@
 This is the file for the foo.txt
-
+New Version 1.0 Released
